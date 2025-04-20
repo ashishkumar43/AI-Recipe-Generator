@@ -23,4 +23,3 @@ Kaggle Link is here : https://www.kaggle.com/code/ashishkumar43/ai-recipe-genera
 
 ---
 
-![Recipe Generator6](https://github.com/ashishkumar43/AI-Recipe-Generator/blob/main/nice%20to%20meet%20you.png)
